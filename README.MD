@@ -58,3 +58,6 @@ Paxos 协议中的三种角色
 学习者（Learner）：学习者无投票权，只是从接受者那里获知哪个提议被选中
 https://blog.csdn.net/yexiaomodemo/article/details/80286952
 较有名的 Paxos 工程实现有 Google Chubby、 ZAB、微信的 PhxPaxos 等
+
+###curator官方示例
+https://github.com/apache/curator/tree/master/curator-examples/src/main/java
